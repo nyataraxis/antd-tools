@@ -1,6 +1,6 @@
 {
-  "name": "@sahbg/antd-tools",
-  "version": "6.4.10",
+  "name": "antd-tools",
+  "version": "6.4.11",
   "description": "tools for ant design",
   "keywords": [
     "react",
