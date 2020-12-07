@@ -8,8 +8,7 @@
   ],
   "homepage": "http://github.com/ant-design/antd-tools",
   "publishConfig": {
-    "registry": "http://nexus.gost-group.com/repository/gp-npm-private/",
-    "scope": "gostgroup"
+    "@sahbg:registry": "https://gitlab.com/api/v4/projects/22839189/packages/npm/"
   },
   "license": "MIT",
   "bin": {
